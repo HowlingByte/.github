@@ -8,7 +8,7 @@ HowlingByte is a powerful and innovative organization that brings together the r
 * Pyhton-2048: 2048 game on Python with Tkinter.
 
 ## Contributing
-We welcome contributions from the community! If you'd like to contribute to any of our projects, please follow the guidelines outlined in each project's repository. Together, we can shape the future of technology and unleash the power of the wolf
+We welcome contributions from the community! If you'd like to contribute to any of our projects, please follow the guidelines outlined in each project's repository. Together, we can shape the future of technology and unleash the power of the wolf.
 
 <!--
 
