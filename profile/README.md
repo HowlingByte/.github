@@ -1,4 +1,12 @@
-# HowlingByte
+<p align="center">
+  <a href="https://github.com/HowlingByte">
+    <img src="https://github.com/HowlingByte/.github/assets/69793084/b4f93691-331d-426c-b8ec-1f0f4e061288" alt="Logo" width="96" height="96">
+  </a>
+  <h3 align="center">HowlingByte</h3>
+  <p align="center">
+    The captivating fusion of code and wolf 🐺👨‍💻.
+  </p>
+</p>
 
 ## Description
 HowlingByte is a powerful and innovative organization that brings together the realms of coding and the mystique of wolves. We are dedicated to pushing the boundaries of technology and crafting cutting-edge solutions. Our mission is to create transformative digital experiences that leave a lasting impact.
