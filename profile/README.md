@@ -6,6 +6,8 @@ HowlingByte is a powerful and innovative organization that brings together the r
 ## Projects
 * [**Marmit65**](https://github.com/HowlingByte/Marmit65): Quick and easy cooking recipes website.
 * [**Pyhton-2048**](https://github.com/HowlingByte/Python-2048): 2048 game on Python with Tkinter.
+* [**Cast-URLs-on-ChromeCast**](https://github.com/HowlingByte/Cast-URLs-on-ChromeCast): Cast images and videos from their URL on your Chromecast
+
 
 
 ## Contributing
