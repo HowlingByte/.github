@@ -22,8 +22,8 @@ HowlingByte is a powerful and innovative organization that brings together the r
 We welcome contributions from the community! If you'd like to contribute to any of our projects, please follow the guidelines outlined in each project's repository. Together, we can shape the future of technology and unleash the power of the wolf.
 
 ## People
-* [**@Hidden-Warden**](https://github.com/Hidden-Warden) - Future french student in BTS SIO
-* [**@Ahhj93**](https://github.com/Ahhj93) - Future french student in CPGE MP2I
+* [**@Hidden-Warden**](https://github.com/Hidden-Warden) - French student in BTS SIO
+* [**@Ahhj93**](https://github.com/Ahhj93) - French student in CPGE MP2I
 
 <!--
 
