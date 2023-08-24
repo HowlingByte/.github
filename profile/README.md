@@ -1,4 +1,4 @@
-![Banner]([banner.png](https://raw.githubusercontent.com/HowlingByte/.github/main/profile/banner.png))
+![Banner](https://raw.githubusercontent.com/HowlingByte/.github/main/profile/banner.png)
 
 ## Description
 HowlingByte is a powerful and innovative organization that brings together the realms of coding and the mystique of wolves. We are dedicated to pushing the boundaries of technology and crafting cutting-edge solutions. Our mission is to create transformative digital experiences that leave a lasting impact.
